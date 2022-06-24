@@ -2,16 +2,16 @@
     {
         "nama": "Kurus",
         "deskripsi": "makan woie",
-        "imageResId": "angsa"
+        "imageId": "angsa"
     },
     {
         "nama": "Ideal",
         "deskripsi": "dah pertahanin",
-        "imageResId": "angsa"
+        "imageId": "angsa"
     },
     {
         "nama": "Gemuk",
         "deskripsi": "olahraga woie",
-        "imageResId": "angsa"
+        "imageId": "angsa"
     }
 ]
