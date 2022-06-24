@@ -1,17 +1,17 @@
 [
     {
-        nama: "Kurus",
-        namaLatin: "makan woie",
-        imageId: "angsa"
+        "nama": "Kurus",
+        "namaLatin": "makan woie",
+        "imageId": "angsa"
     },
     {
-        nama: "Ideal",
-        namaLatin: "dah pertahanin",
-        imageId: "angsa"
+        "nama": "Ideal",
+        "namaLatin": "dah pertahanin",
+        "imageId": "angsa"
     },
     {
-        nama: "Gemuk",
-        namaLatin: "diet woie",
-        imageId: "angsa"
+        "nama": "Gemuk",
+        "namaLatin": "diet woie",
+        "imageId": "angsa"
     }
 ]
