@@ -1,6 +1,17 @@
 [
     {
-      "judul": "<b>Hitung BMR, Kebutuhan Kalori Sehari, dan Berat Badan Ideal</b>", 
-     "caption": "<b>Basal Metabolic Rate (BMR)</b> adalah kalori yang tubuh Anda perlukan <b>hanya</b> untuk melakukan aktivitas dasar tubuh. Aktivitas tersebut mencakup memompa jantung, mencerna makanan, bernapas, memperbaiki sel tubuh, hingga membuang racun dalam tubuh."
+        nama: "Kurus",
+        namaLatin: "makan woie",
+        imageId: "angsa"
+    },
+    {
+        nama: "Ideal",
+        namaLatin: "dah pertahanin",
+        imageId: "angsa"
+    },
+    {
+        nama: "Gemuk",
+        namaLatin: "diet woie",
+        imageId: "angsa"
     }
 ]
