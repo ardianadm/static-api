@@ -1,17 +1,17 @@
 [
     {
         "nama": "Kurus",
-        "namaLatin": "makan woie",
-        "imageId": "angsa"
+        "deskripsi": "makan woie",
+        "imageResId": "angsa"
     },
     {
         "nama": "Ideal",
-        "namaLatin": "dah pertahanin",
-        "imageId": "angsa"
+        "deskripsi": "dah pertahanin",
+        "imageResId": "angsa"
     },
     {
         "nama": "Gemuk",
-        "namaLatin": "diet woie",
-        "imageId": "angsa"
+        "deskripsi": "olahraga woie",
+        "imageResId": "angsa"
     }
 ]
