@@ -1,0 +1,17 @@
+[
+    {
+        "nama": "Kurus",
+        "deskripsi": "Makan lebih banyak ya!",
+        "imageId": "kurus"
+    },
+    {
+        "nama": "Ideal",
+        "deskripsi": "Pertahankan!",
+        "imageId": "ideal"
+    },
+    {
+        "nama": "Gemuk",
+        "deskripsi": "Atur pola makan lebih baik lagi ya!",
+        "imageId": "gemuk"
+    }
+]
